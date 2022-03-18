@@ -1,0 +1,3 @@
+this app is belongs to michael nabil,
+user data shared are secrete and protect by google firebase
+we use premission to open internal storage for save files
