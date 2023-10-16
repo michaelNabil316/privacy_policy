@@ -1,3 +1,5 @@
-this app is belongs to michael nabil,
-user data shared are secrete and protect by google firebase
-we use premission to open internal storage for save files
+this app is belongs to soul pharma,
+user data shared are secrete and protect by soul pharma group
+we use premission to open internal storage for pick image so you can create product with picked image
+no data collection
+no personal data usage
